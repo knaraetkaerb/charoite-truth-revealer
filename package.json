@@ -1,0 +1,41 @@
+{
+  "name": "charoite-truth-revealer",
+  "version": "1.0.0",
+  "description": "Offers a comprehensive toolkit for logistics and supply chain management, optimizing operations and ensuring timely delivery of goods.",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/knaraetkaerb/charoite-truth-revealer"
+  },
+  "author": "knaraetkaerb",
+  "license": "MIT",
+  "dependencies": {
+    "blocksage": "1.0.0",
+    "zolotaya-chasha-zolotaya": "1.0.0",
+    "larimar-peace-bringer": "1.0.0",
+    "rhodonite-soul-binder": "1.0.0",
+    "ethers": "1.0.0",
+    "webpack": "1.0.0",
+    "firebase": "1.0.0",
+    "pg": "1.0.0",
+    "node-sass": "1.0.0",
+    "request": "1.0.0",
+    "dotenv": "1.0.0",
+    "web3-utils": "1.0.0",
+    "supertest": "1.0.0",
+    "eslint": "1.0.0",
+    "axios": "1.0.0",
+    "chalk": "1.0.0",
+    "jest": "1.0.0",
+    "xml2js": "1.0.0",
+    "react-dom": "1.0.0",
+    "cors": "1.0.0",
+    "redux": "1.0.0",
+    "commander": "1.0.0",
+    "enzyme": "1.0.0",
+    "helmet": "1.0.0"
+  }
+}
